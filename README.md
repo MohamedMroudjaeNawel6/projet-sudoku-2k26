@@ -2,10 +2,10 @@
 Filière : Bioinformatique  
 Groupe : TD 3
 #NOM et Prenom des membres du groupe:
- NANA Synatha
- BACHIR Djamila
- DRAME Maya
- MOHAMED MROUDJAE Nawel
+ -NANA Synatha
+ -BACHIR Djamila
+ -DRAME Maya
+ -MOHAMED MROUDJAE Nawel
 
 #Lien github:
 https://github.com/MohamedMroudjaeNawel6/projet-sudoku-2k26/blob/main/README.md
