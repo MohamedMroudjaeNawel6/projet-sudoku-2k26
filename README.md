@@ -16,5 +16,4 @@ Il utilise la bibliothèque Tkinter pour créer une interface graphique.
 
 #Lancer le programme
 Le programme sera lancé avec:
-
 python projet.py
